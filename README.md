@@ -1,3 +1,3 @@
 # hello-world
 first github repository
-a little expeience at programming but learning
+a little experience at programming but learning
